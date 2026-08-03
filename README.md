@@ -69,7 +69,7 @@ int main() {
 ```
 
 ## OUTPUT
-![Alt text](../image/image71.png)
+![Alt text](image/image71.png)
 
 
 
